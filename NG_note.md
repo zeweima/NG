@@ -10,7 +10,7 @@ Interesting, almost all the paper organized into three main sections, the same n
     - Overall structure of the paper:
         - Opening: Lack of the focus groundwater in climate change; Narrow to temperature; Some impact of groundwater temperature, leading to the last paragraph showing the overall framework
         - Story: 1. showing the model performance and then perfromed projections; 2. Digging deeper in the mechanisms; 3. Implication for two aspects: drinking water safety and ecosystem. \<all those are very simple analysis\>
-
+a
 ### 2
 - **Global patterns in river water storage dependent on residence time** Collins et al., (2024)
     ![Figure1](read\GlobalPatternsInRiverWaterStorageDependentOnResidenceTime\Figure1.png)  
