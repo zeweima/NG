@@ -1,5 +1,5 @@
 
-Interesting, almost all the paper organized into three main sections, the same number as stress in Talk like TED.
+Interesting, almost all the paper organized into three main sections, the same number as stressed in Talk like TED.
 
 ### 1
 - **Global groundwater warming due to climate change** Benz et al., (2024)
